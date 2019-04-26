@@ -1,0 +1,2 @@
+The system monitors weather parameters such as air temperature, humidity, barometric pressure and wind speed and displays the average over regular intervals of an hour on LCD display. Display is continuous, update is done at every one hour and weather parameters are sensed at regular intervals of 2 minutes.
+In addition, the user can choose to update the display of weather parameters at any time using a push button key. Accuracy of parameters are upto 2 decimal places.
