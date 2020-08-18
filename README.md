@@ -6,6 +6,7 @@ In addition, the user can choose to update the display of weather parameters at 
 ## Description of Files -
 
 - Chart Snapshot.pdf - Schematic of entire system
+- Circuit Schematic.pdf - Complete view of circuit schematic as designed on Proteus
 - Final report.pdf - Final report of the complete project
 - P24_G040.DSN - Proteus file of the simulation
 - weather_system.asm - ASM mile of the 8086 microprocessor functioning
